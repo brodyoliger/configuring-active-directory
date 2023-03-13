@@ -9,7 +9,7 @@ This explanation outlines the implementation of on-premises Active Directory wit
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Windows Virtual Machines)
+- Microsoft Azure (Windows Virtual Machine)
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
